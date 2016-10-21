@@ -1,0 +1,12 @@
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\MainWindow.baml
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\App.g.cs
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Debug\WpfApplication1.pdb

@@ -1,0 +1,17 @@
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\bin\Release\WPF.KeyBoardCount.exe.config
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\bin\Release\WPF.KeyBoardCount.exe.manifest
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\bin\Release\WPF.KeyBoardCount.application
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\bin\Release\WPF.KeyBoardCount.exe
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\bin\Release\WPF.KeyBoardCount.pdb
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\MainWindow.baml
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\MainWindow.g.cs
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\App.g.cs
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount_MarkupCompile.cache
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount.g.resources
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount.Properties.Resources.resources
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount.csproj.GenerateResource.Cache
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount.TrustInfo.xml
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount.exe.manifest
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount.application
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount.exe
+E:\HEPW\MySpace\NET\HSolution3\WpfApplication1\obj\Release\WPF.KeyBoardCount.pdb
