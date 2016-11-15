@@ -55,6 +55,9 @@ namespace WPF.KeyBoardCount
 
         private void Application_Startup(object sender, StartupEventArgs e)
         {
+            //ChartWindow cw = new ChartWindow();
+            //cw.Show();
+            //return;
             App.mac = new HardHelper().GetMacAddress();
             KListener = new KeyboardListener();
             App.w = new MainWindow();
@@ -79,7 +82,7 @@ namespace WPF.KeyBoardCount
         }
 
         private void Application_Exit(object sender, ExitEventArgs e)
-        {
+        { 
             KListener.Dispose();
             writeThread.Abort();
             XmlHelper xml = new XmlHelper("C:\\");

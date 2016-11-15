@@ -108,5 +108,11 @@ namespace WPF.KeyBoardCount
                 e.Cancel = true;
             }
         }
+
+        private void MainWindow_OnMouseDoubleClick(object sender, MouseButtonEventArgs e)
+        { 
+            ChartWindow cw = new ChartWindow();
+            cw.Show();
+        }
     }
 }

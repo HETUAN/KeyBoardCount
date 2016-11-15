@@ -32,3 +32,6 @@ E:\HEPW\MySpace\NET\KeyBoardCount\src\WPF.KeyBoardCount\obj\Debug\WPF.KeyBoardCo
 E:\HEPW\MySpace\NET\KeyBoardCount\src\WPF.KeyBoardCount\obj\Debug\WPF.KeyBoardCount.application
 E:\HEPW\MySpace\NET\KeyBoardCount\src\WPF.KeyBoardCount\obj\Debug\WPF.KeyBoardCount.exe
 E:\HEPW\MySpace\NET\KeyBoardCount\src\WPF.KeyBoardCount\obj\Debug\WPF.KeyBoardCount.pdb
+E:\HEPW\MySpace\NET\KeyBoardCount\src\WPF.KeyBoardCount\obj\Debug\WPF.KeyBoardCount.csprojResolveAssemblyReference.cache
+E:\HEPW\MySpace\NET\KeyBoardCount\src\WPF.KeyBoardCount\obj\Debug\ChartWindow.baml
+E:\HEPW\MySpace\NET\KeyBoardCount\src\WPF.KeyBoardCount\obj\Debug\ChartWindow.g.cs

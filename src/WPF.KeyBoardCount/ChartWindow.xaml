@@ -1,0 +1,9 @@
+﻿<Window x:Class="WPF.KeyBoardCount.ChartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ChartWindow" Height="500" Width="900" Loaded="ChartWindow_OnLoaded">
+    <Grid>
+        <Canvas Name="DrawBoard" Background="Aqua" Height="500" Width="900"></Canvas>
+    </Grid>
+</Window>
+ 

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPF.KeyBoardCount.exe" size="156672">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPF.KeyBoardCount.exe" size="160768">
       <assemblyIdentity name="WPF.KeyBoardCount" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>UYN+VlYcM6DIvQg9Bas5evmQh9M=</dsig:DigestValue>
+        <dsig:DigestValue>XnfCpNDH+lmI35mw7vege0HV6cI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

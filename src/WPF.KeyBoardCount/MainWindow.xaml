@@ -7,7 +7,8 @@
         Icon="logo.ico"
         StateChanged="Window_StateChanged"
         Closing="Window_Closing"
-        ResizeMode="CanMinimize">
+        ResizeMode="CanMinimize"
+        MouseDoubleClick="MainWindow_OnMouseDoubleClick">
     <Grid>
         <StackPanel>
             <Label x:Name="Lab_Count" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Height="120" Width="180" FontSize="36" >0</Label>

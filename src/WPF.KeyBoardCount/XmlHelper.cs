@@ -57,7 +57,7 @@ namespace WPF.KeyBoardCount
             return System.Environment.SystemDirectory;
         }
 
-        private XmlDocument LoadXML()
+        public XmlDocument LoadXML()
         {
             doc.RemoveAll();
             doc.LoadXml(File.ReadAllText(this._filePath));
@@ -115,7 +115,8 @@ namespace WPF.KeyBoardCount
         {
             while (true)
             {
-                WriteData();
+                //开发过程为不影响以前版本使用先关闭写数据功能
+                //WriteData();
                 Thread.Sleep(600000);
             }
         }
