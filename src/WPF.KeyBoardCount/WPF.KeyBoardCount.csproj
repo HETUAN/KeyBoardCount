@@ -97,9 +97,18 @@
     <Compile Include="ChartWindow.xaml.cs">
       <DependentUpon>ChartWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="FileCount.cs" />
+    <Compile Include="FileCountXmlMaper.cs" />
     <Compile Include="HardHelper.cs" />
+    <Compile Include="LineCount.xaml.cs">
+      <DependentUpon>LineCount.xaml</DependentUpon>
+    </Compile>
     <Compile Include="XmlHelper.cs" />
     <Page Include="ChartWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LineCount.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

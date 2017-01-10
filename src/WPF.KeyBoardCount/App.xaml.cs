@@ -82,7 +82,7 @@ namespace WPF.KeyBoardCount
         }
 
         private void Application_Exit(object sender, ExitEventArgs e)
-        { 
+        {
             KListener.Dispose();
             writeThread.Abort();
             XmlHelper xml = new XmlHelper("C:\\");
@@ -94,6 +94,12 @@ namespace WPF.KeyBoardCount
         {
             XmlHelper xml = new XmlHelper("C:\\");
             xml.WriteData();
+        }
+
+        public void OpenLineCount(object sender, StartupEventArgs e)
+        {
+            LineCount l = new LineCount();
+            l.Show();
         }
     }
 }
